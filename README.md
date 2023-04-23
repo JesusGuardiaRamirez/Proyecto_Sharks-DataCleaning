@@ -129,21 +129,33 @@ registrados.
 4 - Comparar quien sufrió mas los ataques, ya si son Hombres o Mujeres.
 
 
+![analisis_por_sex](https://user-images.githubusercontent.com/125477881/233842808-78a3e2e6-92fe-438e-b13a-307e2ad13935.jpg)
+![visualizacion_por_sex](https://user-images.githubusercontent.com/125477881/233842812-dfb94396-f6e5-4c62-aa72-d967ab305c8e.jpg)
+
+
+
 
 5 - Cuantos casos fueron registrados como Fatales, etc...
 
 
+![analisis_por_injury](https://user-images.githubusercontent.com/125477881/233842878-777c83cd-21fc-45ad-bd0c-0a55ac6b654d.jpg)
 
-6 - Cueles fuerons las actividades que mas sufrieron dichos ataques.
 
+
+6 - Llegados a este punto, cueles fuerons las actividades que mas sufrieron dichos ataques???
+
+![analisis_por_activity](https://user-images.githubusercontent.com/125477881/233842944-6679f02d-150e-40cf-9c8e-8b2a7e70d5f0.jpg)
+![visualizacion_por_activity](https://user-images.githubusercontent.com/125477881/233842957-196ee13a-f4c1-4643-8baf-88ff68ee3b8e.jpg)
 
 
 7 - Que tipo de tiburon tiene mas protagonismo en este report.
 
+![analisis_por_species](https://user-images.githubusercontent.com/125477881/233843005-3c83e62e-5c9f-4990-ab3d-4779cc69e411.jpg)
 
 
 8 - Numero de ataques por año, de los ultimos 15 años. 
 
+![analisis_por_year](https://user-images.githubusercontent.com/125477881/233843033-7ee6a276-2838-4910-9107-aa97aee9c66f.jpg)
 
 
 ## 💻 FUENTE DE DATOS 
