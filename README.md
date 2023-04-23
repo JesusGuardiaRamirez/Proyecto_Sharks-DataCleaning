@@ -108,14 +108,18 @@ Aqui brindo toda la información de la Data Frame, de la cual vamos a trabjarla 
 
 2 - En que temporada del año son los ataques mas frecuentes??
 
-Como podemos ver en el breakdown y la imagen, la temporada con mas ataques es en la época de calor, teniendo en el primer lugar verano seguido de la primavera.
+Como podemos ver en el breakdown y la imagen, la temporada con mas ataques es en la época de calor, teniendo en el primer lugar verano seguido de la primavera. 
+Para ello he tenido que limpiar la columan y traspasar los datos a otra nueva columna para poder hacer el analisis. Creé una función para que me 
+agrupara los meses de año a su correspondiente temporada. 
 
 ![analisis_por_estacion](https://user-images.githubusercontent.com/125477881/233842384-d4b20130-49b9-464f-adef-f70ff522acb1.jpg)
 ![visualizacion_por_estacion](https://user-images.githubusercontent.com/125477881/233842398-8de55c77-c7bf-4e2b-bedf-e3c32e93f26b.jpg)
 
 
 
-3 - Pais con el número mas elevado de ataques.
+3 - En la siguiente imagen, veremos el ranking de los paises con mas ataques por tiburones. 
+
+
 
 
 
