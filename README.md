@@ -82,7 +82,7 @@ Las columnas son:
    
 
 ## 🛠️ HERRAMIENTAS/INSTALACIONES 
-<b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Numpy. </b>
+<b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Re, Matplotlib, Numpy. </b>
 
     !pip install pandas
     !pip install numpy
