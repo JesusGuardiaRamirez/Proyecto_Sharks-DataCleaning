@@ -94,7 +94,7 @@ Las columnas son:
 
 ## 📊 INSIGHTS 
 
-Conocer cuantos ataques de tiburones han habido en los últimos 10 años.
+Conocer cuantos ataques de tiburones han habido en los últimos 30 años.
 
 
 
