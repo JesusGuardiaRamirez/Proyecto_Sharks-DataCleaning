@@ -110,7 +110,8 @@ Aqui brindo toda la información de la Data Frame, de la cual vamos a trabjarla 
 
 Como podemos ver en el breakdown y la imagen, la temporada con mas ataques es en la época de calor, teniendo en el primer lugar verano seguido de la primavera.
 
-
+![analisis_por_estacion](https://user-images.githubusercontent.com/125477881/233842384-d4b20130-49b9-464f-adef-f70ff522acb1.jpg)
+![visualizacion_por_estacion](https://user-images.githubusercontent.com/125477881/233842398-8de55c77-c7bf-4e2b-bedf-e3c32e93f26b.jpg)
 
 
 
