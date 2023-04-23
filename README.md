@@ -117,8 +117,11 @@ agrupara los meses de año a su correspondiente temporada.
 
 
 
-3 - En la siguiente imagen, veremos el ranking de los paises con mas ataques por tiburones. 
+3 - En la siguiente imagen, veremos el ranking de los paises con mas ataques por tiburones. Del cual USA es el pais con mas ataques que han sido 
+registrados.
 
+![analisis_por_country](https://user-images.githubusercontent.com/125477881/233842645-327da996-492b-463b-a250-eba124d0cd0f.jpg)
+![visualizacion_por_country](https://user-images.githubusercontent.com/125477881/233842665-766a8e1d-50f2-4d77-9d1e-a5067178abf5.jpg)
 
 
 
