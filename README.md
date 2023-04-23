@@ -101,11 +101,13 @@ Mi objetivo es lo siguiente:
 
 1 - Ver el numero de registros que  hay en el archivo. Como podemos ver 
 
+Aqui brindo toda la información de la Data Frame, de la cual vamos a trabjarla y sacar el mas alto rendimiento de ella.
 
+![INFO - ARCHIVO CSV, SHARKS](..Screen_shots/info_general.jpg)
 
 2 - En que temporada del año son los ataques mas frecuentes.
 
-[https://github.com/JesusGuardiaRamirez/Sharks-DataCleaning/blob/main/Captura%20de%20pantalla%202023-04-22%20a%20las%2019.57.25.jpg
+
 
 3 - Pais con el número mas elevado de ataques.
 
