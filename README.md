@@ -103,7 +103,7 @@ Mi objetivo es lo siguiente:
 
 Aqui brindo toda la información de la Data Frame, de la cual vamos a trabjarla y sacar el mas alto rendimiento de ella.
 
-![INFO - ARCHIVO CSV, SHARKS](..Screen_shots/info_general.jpg)
+![INFO - ARCHIVO CSV, SHARKS](../Screen_shots/info_general.jpg)
 
 2 - En que temporada del año son los ataques mas frecuentes.
 
