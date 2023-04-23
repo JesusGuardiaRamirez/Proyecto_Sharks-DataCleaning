@@ -135,14 +135,14 @@ registrados.
 
 
 
-5 - Cuantos casos fueron registrados como Fatales, etc...
+5 - Que casos hubieron o resgistraron? Hubo fallecidos? Casos grabes? En el siguiente breakdown mostrarä los mas repetidos que fueron recogidos.
 
 
 ![analisis_por_injury](https://user-images.githubusercontent.com/125477881/233842878-777c83cd-21fc-45ad-bd0c-0a55ac6b654d.jpg)
 
 
 
-6 - Llegados a este punto, cueles fuerons las actividades que mas sufrieron dichos ataques???
+6 - Llegados a este punto, cueles fueron algunas de las actividades que mas sufrieron dichos ataques???
 
 ![analisis_por_activity](https://user-images.githubusercontent.com/125477881/233842944-6679f02d-150e-40cf-9c8e-8b2a7e70d5f0.jpg)
 ![visualizacion_por_activity](https://user-images.githubusercontent.com/125477881/233842957-196ee13a-f4c1-4643-8baf-88ff68ee3b8e.jpg)
@@ -153,7 +153,7 @@ registrados.
 ![analisis_por_species](https://user-images.githubusercontent.com/125477881/233843005-3c83e62e-5c9f-4990-ab3d-4779cc69e411.jpg)
 
 
-8 - Numero de ataques por año, de los ultimos 15 años. 
+8 - Numero de ataques por año, de los ultimos 15 años, del cual en el año 2015 fue el año con mas registros de toda la historia. 
 
 ![analisis_por_year](https://user-images.githubusercontent.com/125477881/233843033-7ee6a276-2838-4910-9107-aa97aee9c66f.jpg)
 
