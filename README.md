@@ -112,6 +112,20 @@ Como podemos ver en el breakdown y la imagen, la temporada con mas ataques es en
 Para ello he tenido que limpiar la columan y traspasar los datos a otra nueva columna para poder hacer el analisis. Creé una función para que me 
 agrupara los meses de año a su correspondiente temporada. 
 
+# Creamos una funcion para poder analizar el numero de casos por temporada.
+def get_season(month):
+    if month in ['12', '01', '02']:
+        return 'Winter'
+    elif month in ['03', '04', '05']:
+        return 'Spring'
+    elif month in ['06', '07', '08']:
+        return 'Summer'
+    elif month in ['09', '10', '11']:
+        return 'Autumn'
+
+# Aplicar la función al DataFrame y crear una nueva columna llamada 'estacion'
+df['Year Season'] = df['Year Season'].apply(get_season)
+
 ![analisis_por_estacion](https://user-images.githubusercontent.com/125477881/233842384-d4b20130-49b9-464f-adef-f70ff522acb1.jpg)
 ![visualizacion_por_estacion](https://user-images.githubusercontent.com/125477881/233842398-8de55c77-c7bf-4e2b-bedf-e3c32e93f26b.jpg)
 
