@@ -42,7 +42,7 @@
 
 ## 🦈 PROYECTO 
 
-El objetivo de este primer proyecto es aplicar lo aprendido en dos semanas con Python trabajando en limpieza y manipulación de datos con Pandas para un archivo CSV que trata de ataques de tiburones, con un deadline de tres días.
+El objetivo de este primer proyecto es aplicar lo aprendido en dos semanas con Python trabajando en limpieza y manipulación de datos con Pandas para un archivo CSV que trata de ataques de tiburones, con un deadline de tres días, y así poder sacar un buen estudio del mismo con nuestra propia hipotesis.
 
 
 
@@ -74,19 +74,19 @@ Las columnas son:
 
    1) Importar los datos que se encuentran en este [SHARK LINK!](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
    
-   2) Se limpia el csv para quitar nulos y valores inconsistentes, eliminar duplicados, colocar tipo de dato correcto, llevar un orden, limpiar filas,
+   2) Se limpia el csv para quitar nulos y valores inconsistentes, eliminar duplicados, colocar los tipo de datos correctos, llevar un orden, limpiar           filas, etc...
       
    3) Tener un objetivo, para poder realizar la limpieza acorde al objetivo, separar información en varias columnas para poder trabajarlas
       mejor y asi tener un analisis mas preciso. 
 
-   4) Utilizar todas las herramientas que sean posibles para dejar el archivo "tidy" y aplicar lo aprendido sobre el para el analisis en si. 
+   4) Utilizar todas las herramientas que sean posibles para dejar el archivo "tidy" y aplicar lo aprendido sobre el mismo archivo. 
    
    5) Presentar resultados de investigación, con visualizaciones y breakdowns.
    
 
 ## 🛠️ HERRAMIENTAS/INSTALACIONES 
 <b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Re, Matplotlib, Numpy. </b>
-
+    
     !pip install pandas
     !pip install numpy
     !pip install ipython
@@ -99,7 +99,7 @@ Las columnas son:
 
 Mi objetivo es lo siguiente:
 
-1 - Ver el numero de registros que  hay en el archivo.
+1 - Ver el numero de registros que  hay en el archivo. Como podemos ver 
 
 
 
