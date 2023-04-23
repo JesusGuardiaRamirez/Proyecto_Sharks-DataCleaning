@@ -101,11 +101,16 @@ Mi objetivo es lo siguiente:
 
 1 - Ver el numero de registros que  hay en el archivo. Como podemos ver 
 
-Aqui brindo toda la información de la Data Frame, de la cual vamos a trabjarla y sacar el mas alto rendimiento de ella.
+Aqui brindo toda la información de la Data Frame, de la cual vamos a trabjarla y sacar el mas alto rendimiento de ella. De cual contamos con mas de 
+25 mil filas, y muchos datos nulos.
 
 ![info_general](https://user-images.githubusercontent.com/125477881/233842141-1fc28dba-2990-444d-bead-ebb57d0be23f.png)
 
-2 - En que temporada del año son los ataques mas frecuentes.
+2 - En que temporada del año son los ataques mas frecuentes??
+
+Como podemos ver en el breakdown y la imagen, la temporada con mas ataques es en la época de calor, teniendo en el primer lugar verano seguido de la primavera.
+
+
 
 
 
