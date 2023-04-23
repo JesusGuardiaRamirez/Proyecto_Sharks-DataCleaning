@@ -11,3 +11,10 @@
 <details>
   <summary>CONTENIDO:📝</summary>
   <ol> 
+    <li><a href="#estructura">Estructura</a></li>
+    <li><a href="#descripción-del-proyecto">Proyecto</a></li>
+      <li><a href="#sobre-el-csv">CSV</a></li>
+    <li><a href="#pasos-a-seguir">Pasos a Seguir</a></li>
+      <li><a href="#herammientas">Herramientas</a></li>
+    <li><a href="#insights">Insights</a></li>
+    <li><a href="#fuente-de-datos">Fuente de Datos</a></li>
