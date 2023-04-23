@@ -105,7 +105,7 @@ Mi objetivo es lo siguiente:
 
 2 - En que temporada del año son los ataques mas frecuentes.
 
-[Visualizacion season](/Users/JGR/IRON_HACK/Sharks/visualizacion_por_estacion.jpg)
+[Visualizacion season](.visualizacion_por_estacion.jpg)
 <br/><br/> 
 
 3 - Pais con el número mas elevado de ataques.
