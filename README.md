@@ -42,7 +42,7 @@
 
 ## 🦈 PROYECTO 
 
-El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Python trabajando en limpieza y manipulación de datos con Pandas para un CSV que trata de ataques de tiburones, con un deadline de tres días.
+El objetivo de este primer proyecto es aplicar lo aprendido en dos semanas con Python trabajando en limpieza y manipulación de datos con Pandas para un archivo CSV que trata de ataques de tiburones, con un deadline de tres días.
 
 
 
@@ -74,11 +74,14 @@ Las columnas son:
 
    1) Importar los datos que se encuentran en este [SHARK LINK!](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
    
-   2) Se limpia el csv para quitar nulos y valores inconsistentes, eliminar duplicados, colocar tipo de dato correcto... 
+   2) Se limpia el csv para quitar nulos y valores inconsistentes, eliminar duplicados, colocar tipo de dato correcto, llevar un orden, limpiar filas,
+      
+   3) Tener un objetivo, para poder realizar la limpieza acorde al objetivo, separar información en varias columnas para poder trabajarlas
+      mejor y asi tener un analisis mas preciso. 
 
-   3) Analizar los datos según diversos objetivos para obtener conclusiones.
-
-   4) Presentar resultados de investigación.
+   4) Utilizar todas las herramientas que sean posibles para dejar el archivo "tidy" y aplicar lo aprendido sobre el para el analisis en si. 
+   
+   5) Presentar resultados de investigación, con visualizaciones y breakdowns.
    
 
 ## 🛠️ HERRAMIENTAS/INSTALACIONES 
@@ -94,7 +97,38 @@ Las columnas son:
 
 ## 📊 INSIGHTS 
 
-Conocer cuantos ataques de tiburones han habido en los últimos 30 años.
+Mi objetivo es lo siguiente:
+
+1 - Ver el numero de registros que  hay en el archivo.
+
+
+
+2 - En que temporada del año son los ataques mas frecuentes.
+
+[Visualizacion season](/Users/JGR/IRON_HACK/Sharks/visualizacion_por_estacion.jpg)
+<br/><br/> 
+
+3 - Pais con el número mas elevado de ataques.
+
+
+
+4 - Comparar quien sufrió mas los ataques, ya si son Hombres o Mujeres.
+
+
+
+5 - Cuantos casos fueron registrados como Fatales, etc...
+
+
+
+6 - Cueles fuerons las actividades que mas sufrieron dichos ataques.
+
+
+
+7 - Que tipo de tiburon tiene mas protagonismo en este report.
+
+
+
+8 - Numero de ataques por año, de los ultimos 15 años. 
 
 
 
